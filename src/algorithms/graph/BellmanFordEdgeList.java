@@ -1,4 +1,4 @@
-package algorithms;
+package algorithms.graph;
 
 public class BellmanFordEdgeList {
 

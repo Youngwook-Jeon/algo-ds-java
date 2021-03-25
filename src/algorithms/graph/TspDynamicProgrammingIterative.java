@@ -5,7 +5,7 @@
  * <p>Time Complexity: O(n^2 * 2^n) Space Complexity: O(n * 2^n)
  *
  */
-package algorithms;
+package algorithms.graph;
 
 import java.util.ArrayList;
 import java.util.Collections;

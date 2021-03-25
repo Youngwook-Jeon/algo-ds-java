@@ -4,7 +4,7 @@
  * <p>Time Complexity: O(E)
  *
  */
-package algorithms;
+package algorithms.graph;
 
 import java.util.ArrayList;
 import java.util.Arrays;

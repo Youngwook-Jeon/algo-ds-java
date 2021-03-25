@@ -1,4 +1,4 @@
-package algorithms;
+package algorithms.graph;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;

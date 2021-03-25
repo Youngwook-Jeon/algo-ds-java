@@ -4,7 +4,7 @@
  * <p>Time complexity: O(V+E)
  *
  */
-package algorithms;
+package algorithms.graph;
 
 import java.util.*;
 
